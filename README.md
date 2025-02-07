@@ -1,4 +1,4 @@
-# Movie Suggester - Discover Your Next Favorite Film
+# Movies4Movies - Discover Your Next Favorite Film
 
 **📌 Overview**
 
