@@ -14,7 +14,7 @@ API: TMDB (The Movie Database API)
 
 Deployment: Vercel, Netlify, or Heroku
 
-🚀 Features
+**🚀 Features**
 
 🎭 Genre-Based Suggestions – Get movie recommendations tailored to your favorite genre.
 
